@@ -84,6 +84,18 @@
 	    &nbsp;
     </TD>
    </TR>
+
+   <TR>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-11-19</B></DIV> </TD>
+    <TD bgColor="#ffffff">
+		   &nbsp; [예제 10-1~10-6, 10-16~10-19] Main/SubActivity간 양방향 데이터 전달
+	    	    <a href="https://github.com/seongheum-ssu/2020-2-2150686801/tree/main/exp/2020-11-19" title="2020-11-19 필수 실습" target="_new"><font color='blue'>(pp.392~411)</font></a>	   
+	    , 실습 14-1: 음악 서비스 만들기
+	    	    <a href="https://github.com/seongheum-ssu/2020-2-2150686801/tree/main/exp/2020-11-19" title="2020-11-19 권장 실습" target="_new"><font color='blue'> (pp.518~525)</font></a>	   
+	    &nbsp;
+    </TD>
+   </TR>
+
    
 </table>
 </body>
