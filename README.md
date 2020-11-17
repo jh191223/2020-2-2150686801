@@ -111,7 +111,7 @@
    </TR>
 
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-12-03</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-12-10</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 팀과제 제출, 기말고사 &nbsp;
 	 </TD>
