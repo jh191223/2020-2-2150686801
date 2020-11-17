@@ -110,6 +110,12 @@
 	 </TD>
    </TR>
 
+   <TR>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-12-03</B></DIV> </TD>
+    <TD bgColor="#ffffff">
+		   &nbsp; 기맑고사 &nbsp;
+	 </TD>
+   </TR>
 
 </table>
 </body>
