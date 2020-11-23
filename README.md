@@ -37,7 +37,7 @@
   </TR>
 
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-10-15</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-10-15 &nbsp;</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 실습 5-2: 테이블레이아웃을 활용한 계산기 앱 만들기
 <a href="https://github.com/seongheum-ssu/2020-2-2150686801/tree/main/exp/2020-10-15" title="2020-10-15 필수 실습" target="_new"><font color='blue'>(pp.225-230)</font></a> 
@@ -46,7 +46,7 @@
    </TR>
 
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-10-22</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-10-22 &nbsp;</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 실습 7-3: 사용자 정보 입력 앱 만들기
 	    <a href="https://github.com/seongheum-ssu/2020-2-2150686801/tree/main/exp/2020-10-22" title="2020-10-22 필수 실습" target="_new"><font color='blue'>(pp.310-317)</font></a>
@@ -55,7 +55,7 @@
    </TR>
 
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-10-29</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-10-29 &nbsp;</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 실습 6-2: 간단 웹 브라우저 만들기 
 	    <a href="https://github.com/seongheum-ssu/2020-2-2150686801/tree/main/exp/2020-10-29" title="2020-10-29 필수 실습" target="_new"><font color='blue'>(pp.269-278)</font></a>
@@ -64,7 +64,7 @@
    </TR>
    
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-11-05</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-11-05 &nbsp; </B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 실습 8-1: 일기장 앱 만들기 
 	    <a href="https://github.com/seongheum-ssu/2020-2-2150686801/tree/main/exp/2020-11-05" title="2020-11-05 필수 실습" target="_new"><font color='blue'>(pp.327-335)</font></a>	   
@@ -75,7 +75,7 @@
    </TR>
    
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-11-12</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-11-12 &nbsp;</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 실습 8-2: 이미지 뷰어 만들기
 	    	    <a href="https://github.com/seongheum-ssu/2020-2-2150686801/tree/main/exp/2020-11-12" title="2020-11-12 필수 실습" target="_new"><font color='blue'>(pp.343~349)</font></a>	   
@@ -86,7 +86,7 @@
    </TR>
 
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-11-19</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-11-19 &nbsp;</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; [예제 10-1~19] Main/SubActivity간 양방향 데이터 전달
 	    	    <a href="https://github.com/seongheum-ssu/2020-2-2150686801/tree/main/exp/2020-11-19" title="2020-11-19 필수 실습" target="_new"><font color='blue'>(pp.392~411)</font></a>	   
@@ -97,21 +97,21 @@
    </TR>
 
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-11-26</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-11-26 &nbsp;</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 팀과제: 모바일 앱 기획 및 설계 &nbsp;
 	 </TD>
    </TR>
 
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-12-03</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-12-03 &nbsp;</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 팀과제: 모바일 앱 기획 및 설계 &nbsp;
 	 </TD>
    </TR>
 
    <TR>
-    <TD height="25" bgColor="#efefef"><DIV align="center"><B>2020-12-10</B></DIV> </TD>
+    <TD height="25" bgColor="#efefef"><DIV align="center"><B> &nbsp; 2020-12-10 &nbsp;</B></DIV> </TD>
     <TD bgColor="#ffffff">
 		   &nbsp; 팀과제 제출, 기말고사 &nbsp;
 	 </TD>
